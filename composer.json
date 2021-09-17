@@ -13,6 +13,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "psr/event-dispatcher": "^1.0"
+        "psr/event-dispatcher": "^1.0",
+        "phpunit/phpunit": "9.5.9"
     }
 }
